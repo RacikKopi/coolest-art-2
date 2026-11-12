@@ -6,6 +6,10 @@
 
 A colossal bioluminescent whale breaching over a neon city skyline at dusk, written to /output/entry.png by a deterministic Python program. The program copies the art beside it, byte for byte — no network, no randomness, no clock — so both runs write identical bytes.
 
+## About the art
+
+A giant whale glows cyan and violet as it arcs out of the harbour at dusk, its light reflected in the water below a skyline of neon towers. One huge silhouette, one moment of breach — the whole picture is built to stop the eye in a single glance.
+
 ## Run it
 
 ```sh
